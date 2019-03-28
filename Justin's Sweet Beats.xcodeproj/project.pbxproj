@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F860F04224C97CB0099ECD1 /* best fire.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F860F03224C97CB0099ECD1 /* best fire.png */; };
 		9FC61825224C4FFB00C04A35 /* iPhone 6-7-8 – 2@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC61822224C4FFA00C04A35 /* iPhone 6-7-8 – 2@3x.png */; };
 		9FC61827224C4FFB00C04A35 /* iPhone 6-7-8 – 1@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC61824224C4FFB00C04A35 /* iPhone 6-7-8 – 1@3x.png */; };
 		9FC61829224C517E00C04A35 /* soundcloud.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9FC61828224C517E00C04A35 /* soundcloud.jpg */; };
@@ -43,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9F860F03224C97CB0099ECD1 /* best fire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "best fire.png"; path = "../../best fire.png"; sourceTree = "<group>"; };
 		9FC61822224C4FFA00C04A35 /* iPhone 6-7-8 – 2@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPhone 6-7-8 – 2@3x.png"; path = "../../iPhone 6-7-8 – 2@3x.png"; sourceTree = "<group>"; };
 		9FC61824224C4FFB00C04A35 /* iPhone 6-7-8 – 1@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPhone 6-7-8 – 1@3x.png"; path = "../../iPhone 6-7-8 – 1@3x.png"; sourceTree = "<group>"; };
 		9FC61828224C517E00C04A35 /* soundcloud.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = soundcloud.jpg; path = ../../soundcloud.jpg; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 				9FEC053F223AC13C009DBAF3 /* AppDelegate.swift */,
 				9FEC0541223AC13C009DBAF3 /* ViewController.swift */,
 				9FEC0543223AC13C009DBAF3 /* Main.storyboard */,
+				9F860F03224C97CB0099ECD1 /* best fire.png */,
 				9FC6182E224C56D100C04A35 /* fire.jpg */,
 				9FC6182C224C560600C04A35 /* fire.gif */,
 				9FC6182A224C552C00C04A35 /* iPhone 6-7-8 – 3@3x.png */,
@@ -269,6 +272,7 @@
 				9FC61827224C4FFB00C04A35 /* iPhone 6-7-8 – 1@3x.png in Resources */,
 				9FC61831224C792F00C04A35 /* Song1.m4a in Resources */,
 				9FC61837224C902E00C04A35 /* Song2.m4a in Resources */,
+				9F860F04224C97CB0099ECD1 /* best fire.png in Resources */,
 				9FC61825224C4FFB00C04A35 /* iPhone 6-7-8 – 2@3x.png in Resources */,
 				9FC61835224C7C7200C04A35 /* Song1.mp3 in Resources */,
 				9FC6182D224C560600C04A35 /* fire.gif in Resources */,
