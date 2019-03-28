@@ -15,9 +15,18 @@
 		9F3BAAFE224C98F50047AAB3 /* best fire.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F3BAAF6224C98F40047AAB3 /* best fire.png */; };
 		9F3BAAFF224C98F50047AAB3 /* Song1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9F3BAAF7224C98F50047AAB3 /* Song1.mp3 */; };
 		9F3BAB00224C98F50047AAB3 /* soundcloud.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9F3BAAF8224C98F50047AAB3 /* soundcloud.jpg */; };
-		9FC61825224C4FFB00C04A35 /* iPhone 6-7-8 – 2@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC61822224C4FFA00C04A35 /* iPhone 6-7-8 – 2@3x.png */; };
-		9FC61827224C4FFB00C04A35 /* iPhone 6-7-8 – 1@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC61824224C4FFB00C04A35 /* iPhone 6-7-8 – 1@3x.png */; };
-		9FC6182B224C552C00C04A35 /* iPhone 6-7-8 – 3@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC6182A224C552C00C04A35 /* iPhone 6-7-8 – 3@3x.png */; };
+		9FC99004224C9AA400BEDB45 /* iPhone 6-7-8 – 4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC98FF8224C9AA300BEDB45 /* iPhone 6-7-8 – 4@2x.png */; };
+		9FC99005224C9AA400BEDB45 /* iPhone 6-7-8 – 1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC98FF9224C9AA300BEDB45 /* iPhone 6-7-8 – 1@2x.png */; };
+		9FC99006224C9AA400BEDB45 /* iPhone 6-7-8 – 1@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC98FFA224C9AA300BEDB45 /* iPhone 6-7-8 – 1@3x.png */; };
+		9FC99007224C9AA400BEDB45 /* iPhone 6-7-8 – 2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC98FFB224C9AA300BEDB45 /* iPhone 6-7-8 – 2@2x.png */; };
+		9FC99008224C9AA400BEDB45 /* iPhone 6-7-8 – 3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC98FFC224C9AA400BEDB45 /* iPhone 6-7-8 – 3@2x.png */; };
+		9FC99009224C9AA400BEDB45 /* iPhone 6-7-8 – 3@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC98FFD224C9AA400BEDB45 /* iPhone 6-7-8 – 3@3x.png */; };
+		9FC9900A224C9AA400BEDB45 /* iPhone 6-7-8 – 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC98FFE224C9AA400BEDB45 /* iPhone 6-7-8 – 4.png */; };
+		9FC9900B224C9AA400BEDB45 /* iPhone 6-7-8 – 4@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC98FFF224C9AA400BEDB45 /* iPhone 6-7-8 – 4@3x.png */; };
+		9FC9900C224C9AA400BEDB45 /* iPhone 6-7-8 – 2@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC99000224C9AA400BEDB45 /* iPhone 6-7-8 – 2@3x.png */; };
+		9FC9900D224C9AA400BEDB45 /* iPhone 6-7-8 – 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC99001224C9AA400BEDB45 /* iPhone 6-7-8 – 1.png */; };
+		9FC9900E224C9AA400BEDB45 /* iPhone 6-7-8 – 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC99002224C9AA400BEDB45 /* iPhone 6-7-8 – 2.png */; };
+		9FC9900F224C9AA400BEDB45 /* iPhone 6-7-8 – 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FC99003224C9AA400BEDB45 /* iPhone 6-7-8 – 3.png */; };
 		9FEC0540223AC13C009DBAF3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FEC053F223AC13C009DBAF3 /* AppDelegate.swift */; };
 		9FEC0542223AC13C009DBAF3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FEC0541223AC13C009DBAF3 /* ViewController.swift */; };
 		9FEC0545223AC13C009DBAF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FEC0543223AC13C009DBAF3 /* Main.storyboard */; };
@@ -53,9 +62,18 @@
 		9F3BAAF6224C98F40047AAB3 /* best fire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "best fire.png"; sourceTree = SOURCE_ROOT; };
 		9F3BAAF7224C98F50047AAB3 /* Song1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Song1.mp3; sourceTree = SOURCE_ROOT; };
 		9F3BAAF8224C98F50047AAB3 /* soundcloud.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = soundcloud.jpg; sourceTree = SOURCE_ROOT; };
-		9FC61822224C4FFA00C04A35 /* iPhone 6-7-8 – 2@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPhone 6-7-8 – 2@3x.png"; path = "../../iPhone 6-7-8 – 2@3x.png"; sourceTree = "<group>"; };
-		9FC61824224C4FFB00C04A35 /* iPhone 6-7-8 – 1@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPhone 6-7-8 – 1@3x.png"; path = "../../iPhone 6-7-8 – 1@3x.png"; sourceTree = "<group>"; };
-		9FC6182A224C552C00C04A35 /* iPhone 6-7-8 – 3@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPhone 6-7-8 – 3@3x.png"; path = "../../iPhone 6-7-8 – 3@3x.png"; sourceTree = "<group>"; };
+		9FC98FF8224C9AA300BEDB45 /* iPhone 6-7-8 – 4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 6-7-8 – 4@2x.png"; sourceTree = "<group>"; };
+		9FC98FF9224C9AA300BEDB45 /* iPhone 6-7-8 – 1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 6-7-8 – 1@2x.png"; sourceTree = "<group>"; };
+		9FC98FFA224C9AA300BEDB45 /* iPhone 6-7-8 – 1@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 6-7-8 – 1@3x.png"; sourceTree = "<group>"; };
+		9FC98FFB224C9AA300BEDB45 /* iPhone 6-7-8 – 2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 6-7-8 – 2@2x.png"; sourceTree = "<group>"; };
+		9FC98FFC224C9AA400BEDB45 /* iPhone 6-7-8 – 3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 6-7-8 – 3@2x.png"; sourceTree = "<group>"; };
+		9FC98FFD224C9AA400BEDB45 /* iPhone 6-7-8 – 3@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 6-7-8 – 3@3x.png"; sourceTree = "<group>"; };
+		9FC98FFE224C9AA400BEDB45 /* iPhone 6-7-8 – 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 6-7-8 – 4.png"; sourceTree = "<group>"; };
+		9FC98FFF224C9AA400BEDB45 /* iPhone 6-7-8 – 4@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 6-7-8 – 4@3x.png"; sourceTree = "<group>"; };
+		9FC99000224C9AA400BEDB45 /* iPhone 6-7-8 – 2@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 6-7-8 – 2@3x.png"; sourceTree = "<group>"; };
+		9FC99001224C9AA400BEDB45 /* iPhone 6-7-8 – 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 6-7-8 – 1.png"; sourceTree = "<group>"; };
+		9FC99002224C9AA400BEDB45 /* iPhone 6-7-8 – 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 6-7-8 – 2.png"; sourceTree = "<group>"; };
+		9FC99003224C9AA400BEDB45 /* iPhone 6-7-8 – 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 6-7-8 – 3.png"; sourceTree = "<group>"; };
 		9FEC053C223AC13C009DBAF3 /* Justin's Sweet Beats.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Justin's Sweet Beats.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FEC053F223AC13C009DBAF3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9FEC0541223AC13C009DBAF3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -114,6 +132,18 @@
 		9FEC0533223AC13C009DBAF3 = {
 			isa = PBXGroup;
 			children = (
+				9FC99001224C9AA400BEDB45 /* iPhone 6-7-8 – 1.png */,
+				9FC98FF9224C9AA300BEDB45 /* iPhone 6-7-8 – 1@2x.png */,
+				9FC98FFA224C9AA300BEDB45 /* iPhone 6-7-8 – 1@3x.png */,
+				9FC99002224C9AA400BEDB45 /* iPhone 6-7-8 – 2.png */,
+				9FC98FFB224C9AA300BEDB45 /* iPhone 6-7-8 – 2@2x.png */,
+				9FC99000224C9AA400BEDB45 /* iPhone 6-7-8 – 2@3x.png */,
+				9FC99003224C9AA400BEDB45 /* iPhone 6-7-8 – 3.png */,
+				9FC98FFC224C9AA400BEDB45 /* iPhone 6-7-8 – 3@2x.png */,
+				9FC98FFD224C9AA400BEDB45 /* iPhone 6-7-8 – 3@3x.png */,
+				9FC98FFE224C9AA400BEDB45 /* iPhone 6-7-8 – 4.png */,
+				9FC98FF8224C9AA300BEDB45 /* iPhone 6-7-8 – 4@2x.png */,
+				9FC98FFF224C9AA400BEDB45 /* iPhone 6-7-8 – 4@3x.png */,
 				9FEC053E223AC13C009DBAF3 /* Justin's Sweet Beats */,
 				9FEC0553223AC13E009DBAF3 /* Justin's Sweet BeatsTests */,
 				9FEC055E223AC13E009DBAF3 /* Justin's Sweet BeatsUITests */,
@@ -138,9 +168,6 @@
 				9FEC053F223AC13C009DBAF3 /* AppDelegate.swift */,
 				9FEC0541223AC13C009DBAF3 /* ViewController.swift */,
 				9FEC0543223AC13C009DBAF3 /* Main.storyboard */,
-				9FC6182A224C552C00C04A35 /* iPhone 6-7-8 – 3@3x.png */,
-				9FC61824224C4FFB00C04A35 /* iPhone 6-7-8 – 1@3x.png */,
-				9FC61822224C4FFA00C04A35 /* iPhone 6-7-8 – 2@3x.png */,
 				9FEC0546223AC13E009DBAF3 /* Assets.xcassets */,
 				9FEC0548223AC13E009DBAF3 /* LaunchScreen.storyboard */,
 				9FEC054B223AC13E009DBAF3 /* Info.plist */,
@@ -270,20 +297,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9FC61827224C4FFB00C04A35 /* iPhone 6-7-8 – 1@3x.png in Resources */,
 				9F3BAAFB224C98F50047AAB3 /* Song1.m4a in Resources */,
+				9FC9900F224C9AA400BEDB45 /* iPhone 6-7-8 – 3.png in Resources */,
+				9FC99004224C9AA400BEDB45 /* iPhone 6-7-8 – 4@2x.png in Resources */,
 				9F3BAB00224C98F50047AAB3 /* soundcloud.jpg in Resources */,
-				9FC61825224C4FFB00C04A35 /* iPhone 6-7-8 – 2@3x.png in Resources */,
 				9F3BAAFF224C98F50047AAB3 /* Song1.mp3 in Resources */,
+				9FC9900D224C9AA400BEDB45 /* iPhone 6-7-8 – 1.png in Resources */,
+				9FC9900A224C9AA400BEDB45 /* iPhone 6-7-8 – 4.png in Resources */,
 				9F3BAAFE224C98F50047AAB3 /* best fire.png in Resources */,
+				9FC99007224C9AA400BEDB45 /* iPhone 6-7-8 – 2@2x.png in Resources */,
 				9FEC054A223AC13E009DBAF3 /* LaunchScreen.storyboard in Resources */,
-				9FC6182B224C552C00C04A35 /* iPhone 6-7-8 – 3@3x.png in Resources */,
 				9FEC0547223AC13E009DBAF3 /* Assets.xcassets in Resources */,
+				9FC9900E224C9AA400BEDB45 /* iPhone 6-7-8 – 2.png in Resources */,
 				9F3BAAF9224C98F50047AAB3 /* fire.jpg in Resources */,
+				9FC99009224C9AA400BEDB45 /* iPhone 6-7-8 – 3@3x.png in Resources */,
 				9FEC0545223AC13C009DBAF3 /* Main.storyboard in Resources */,
+				9FC9900C224C9AA400BEDB45 /* iPhone 6-7-8 – 2@3x.png in Resources */,
 				9F3BAAFC224C98F50047AAB3 /* Song2.m4a in Resources */,
+				9FC9900B224C9AA400BEDB45 /* iPhone 6-7-8 – 4@3x.png in Resources */,
 				9F3BAAFA224C98F50047AAB3 /* fire.gif in Resources */,
+				9FC99008224C9AA400BEDB45 /* iPhone 6-7-8 – 3@2x.png in Resources */,
+				9FC99006224C9AA400BEDB45 /* iPhone 6-7-8 – 1@3x.png in Resources */,
 				9F3BAAFD224C98F50047AAB3 /* jsb icon.jpg in Resources */,
+				9FC99005224C9AA400BEDB45 /* iPhone 6-7-8 – 1@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

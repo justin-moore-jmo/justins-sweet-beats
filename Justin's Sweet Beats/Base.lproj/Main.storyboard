@@ -53,6 +53,10 @@
                                     <segue destination="FRi-ru-f3h" kind="show" id="NXE-jC-Dc3"/>
                                 </connections>
                             </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="soundcloud.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="OKv-I5-XKx">
+                                <rect key="frame" x="245" y="396" width="92" height="46"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -211,6 +215,7 @@
         <image name="iPhone 6-7-8 – 1.png" width="375" height="667"/>
         <image name="iPhone 6-7-8 – 2.png" width="375" height="667"/>
         <image name="iPhone 6-7-8 – 3.png" width="375" height="667"/>
+        <image name="soundcloud.jpg" width="320" height="320"/>
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="yoo-UT-Agx"/>
